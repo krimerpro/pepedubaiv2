@@ -1,332 +1,265 @@
 @extends('layouts.default')
 @section('content')
 
-<!-- Feature-section -->
-<div class="feature-section pb-70 section-to-header">
-    <div class="container">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-lg-3 pb-30">
-                    <div class="feature-card">
-                        <div class="feature-card-header">
-                            <div class="feature-card-thumb feature-card-thumb-green">
-                                <i class="flaticon-machine-learning-1"></i>
-                            </div>
-                            <span>Low Tax</span>
-                        </div>
-                        <div class="feature-card-body">
-                            <p>4% Tax Buy & Sell</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 pb-30">
-                    <div class="feature-card">
-                        <div class="feature-card-header">
-                            <div class="feature-card-thumb feature-card-thumb-yellow">
-                                <i class="flaticon-voice-recognition"></i>
-                            </div>
-                            <span>Anti Whale & Dump</span>
-                        </div>
-                        <div class="feature-card-body">
-                            <p>4% Max Wallet & Transaction</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 pb-30">
-                    <div class="feature-card">
-                        <div class="feature-card-header">
-                            <div class="feature-card-thumb feature-card-thumb-blue">
-                                <i class="flaticon-machine-learning"></i>
-                            </div>
-                            <span>Low of Supply</span>
-                        </div>
-                        <div class="feature-card-body">
-                            <p>50.000.000 $Erudex Tokens</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 pb-30">
-                    <div class="feature-card">
-                        <div class="feature-card-header">
-                            <div class="feature-card-thumb feature-card-thumb-violet">
-                                <i class="flaticon-processor"></i>
-                            </div>
-                            <span>Initial Liquidity</span>
-                        </div>
-                        <div class="feature-card-body">
-                            <p>2 BNB for Liquidity</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+<section id="About-Us" class="section background-color-orange margin-less">
+  <div class="container-medium">
+    <div class="w-layout-grid grid-gobal space">
+      <div class="gobal-grid-ldiv n"><img src="{{ asset('images/0-buy.svg') }}" loading="lazy" alt="" class="gobal-grid-img nagative-margin"></div>
+      <div id="w-node-_35caa09a-2e5b-5120-099d-3e0e16450af9-b39babc3" class="gobal-grid-div">
+        <h2 class="header-title-2">About Us</h2>
+        <div class="line"></div>
+        <p class="paragraph-normal">Venturing Out To Create The Healthiest Meme Economy On Binance Smart Chain, Our Team Bred Pepe Dubai 2.0. The World&#x27;s Best Reserve Currency And The Greatest Of All Meme Glory, Pepe Dubai 2.0  Is Aimed At The Moon.</p>
+        <p class="paragraph-normal">Coming Out Of The Box, Pepe Dubai 2.0 Is A Reflection Token, With HOLDR Rewards And No Buy Fees, Because Our Team Wants You Aimed At The Moon As Well.</p>
+      </div>
     </div>
+  </div>
+</section>
+<div class="section remove-button-padding marginless">
+  <div class="container-medium">
+    <div class="w-layout-grid grid-gobal">
+      <div id="w-node-_2ce1e4ea-ae00-36b9-4c83-85ea2e588019-b39babc3" class="gobal-grid-div">
+        <h2 class="header-title-2 max">Market-Proven Methods For You</h2>
+        <div class="line"></div>
+        <p class="paragraph-normal">Get Pepe Dubai with 0% Transaction Fee and Benefit from a Planned Marketing &amp; Buyback Push. Our 10% Sell Transaction Fee Protects Against Quick Sell-Offs, and Our 5% Reflection Fee Logic Increases your Balance Automatically. Rest Easy Knowing We Plan to Publicly Renounce the Smart Contract to Prevent Rug-Pulling. Invest in Pepe Dubai 2.0 Now!</p>
+      </div>
+      <div class="gobal-grid-ldiv n"><img src="{{ asset('images/Pepe-Habibi-Character-Designs-06-1.svg') }}" loading="lazy" width="586" alt="" class="gobal-grid-img small"></div>
+    </div>
+  </div>
 </div>
-<!-- Feature-section -->
-<!-- About-section -->
-<section class="about-section bg-off-white pt-100 pb-70" id="about">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-6 pb-30">
-                <div class="about-section-item about-item-image text-center">
-                    <img src="{{ asset('images/feature-shape/feature-shape-1.png') }}" alt="shape">
-                </div>
-            </div>
-            <div class="col-lg-6 pb-30">
-                <div class="about-section-item about-item-details">
-                    <div class="section-title section-title-left text-start">
-                        <small>About Us</small>
-                        <h2>Mission Is To Bring The Power Of Erudex AI To Every Business</h2>
-                    </div>
-                    <div class="about-content">
-                        <ul>
-                            <li>Advance Advisory Team</li>
-                            <li>Advance Quality Experts</li>
-                            <li>Many variations of passages</li>
-                            <li>High-Quality Results</li>
-                        </ul>
-                        <a href="#" class="btn main-btn">About Us</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+<section id="Token-Info" class="section extra">
+  <section class="container-medium">
+    <div class="header-sections">
+      <h2>Token Info</h2>
     </div>
+    <div class="w-layout-grid token-grid">
+      <div id="w-node-aeb712cf-3303-4a96-abe8-07e3ae0c200c-b39babc3" class="token-info">
+        <h3 class="head-3">690 Trillion</h3>
+        <div class="text-block">Max Supply</div>
+      </div>
+      <div id="w-node-db1fa05a-4318-21a0-a00d-6706f85b189e-b39babc3" class="token-info mobile-last">
+        <h3 class="head-3">Binance Smart Chain</h3>
+        <div class="text-block">Token Network</div>
+      </div>
+      <div id="w-node-c3ba9754-2521-f7b0-69dd-ebfd261a2d0b-b39babc3" class="token-info buttom">
+        <h3 class="head-3">Pepe Dubai 2.0</h3>
+        <div class="text-block">Token Name</div>
+      </div>
+      <div id="w-node-_95fc0876-4dc8-2e9e-661d-f1af3bcdb716-b39babc3" class="token-info last remove">
+        <h3 class="head-3">$PepeDubaiTwo</h3>
+        <div class="text-block">Token Symbol</div>
+      </div>
+    </div>
+    <div class="w-layout-grid token-grid-circle">
+      <div id="w-node-_46b33ea3-d5c8-6ade-8165-d9660e525fde-b39babc3" class="token-info-circle">
+        <h3 class="head-h3">0%</h3>
+        <div class="text-block-percent">Buy</div>
+      </div>
+      <div id="w-node-_64e9a1c9-f7ef-e757-de67-bc5abc586ee0-b39babc3" class="token-info-circle red">
+        <h3 class="head-h3">10%</h3>
+        <div class="text-block-percent">Sell</div>
+      </div>
+    </div>
+  </section>
 </section>
-<!-- About-section -->
-<!-- Service-section -->
-<section class="service-section pt-100 pb-70" id="services">
-    <div class="container">
-        <div class="section-title section-title-lg">
-            <small>Services</small>
-            <h2>Our Purpose Is To Deliver Excellence <br> In Service And Execution</h2>
-        </div>
-        <div class="row">
-            <div class="col-md-6 col-lg-4 pb-30">
-                <div class="service-card">
-                    <div class="service-card-thumb">
-                        <i class="flaticon-automation"></i>
-                    </div>
-                    <div class="service-card-body">
-                        <h3>Robotic Automation</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 pb-30">
-                <div class="service-card">
-                    <div class="service-card-thumb">
-                        <i class="flaticon-predictive-chart"></i>
-                    </div>
-                    <div class="service-card-body">
-                        <h3>Predictive Analytics</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 pb-30">
-                <div class="service-card">
-                    <div class="service-card-thumb">
-                        <i class="flaticon-deep-learning"></i>
-                    </div>
-                    <div class="service-card-body">
-                        <h3>Deep Learning</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 pb-30">
-                <div class="service-card">
-                    <div class="service-card-thumb">
-                        <i class="flaticon-data-mining"></i>
-                    </div>
-                    <div class="service-card-body">
-                        <h3>Data Mining</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 pb-30">
-                <div class="service-card">
-                    <div class="service-card-thumb">
-                        <i class="flaticon-diagram"></i>
-                    </div>
-                    <div class="service-card-body">
-                        <h3>Statistical Modeling</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 pb-30">
-                <div class="service-card">
-                    <div class="service-card-thumb">
-                        <i class="flaticon-machine-learning-2"></i>
-                    </div>
-                    <div class="service-card-body">
-                        <h3>Security & Surveillance</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
+<section id="Features" class="section background-color-orange">
+  <div class="container-medium">
+    <div class="header-sections">
+      <h2>Features</h2>
+      <p class="paragraph-normal _900-max">The Pepe Dubai 2.0 Team is Dedicated to Bringing You Massive Profits. With Our Expertise in Meme Coin Success, We&#x27;ve Designed Pepe Dubai to Withstand Market Misfortunes. See For Yourself the Bases We&#x27;ve Covered For Your Profit Below!</p>
     </div>
+    <div class="w-layout-grid features-grid">
+      <div data-wf-pbl="layout-grid-2x2-centered" id="w-node-_60454006-08c6-5601-f9d9-da37a57cea89-b39babc3" class="features-cell">
+        <div class="features-icon"><img src="{{ asset('images/Liquidity.svg') }}" loading="lazy" alt="" class="image"></div>
+        <div class="features-title desktop">5% HOLDR Rewards</div>
+        <div class="features-title mobile">5% Holdr Rewards</div>
+        <p class="paragraph-normal small-normal">5% of all the funds accumulated from sell-off transaction fees gets distributed to all HOLDRs, including you. So relax, do nothing but HOLD and watch your balance increase on its own due to Pepe Dubai rewards.</p>
+      </div>
+      <div data-wf-pbl="layout-grid-2x2-centered" id="w-node-df7ae8d5-1d1e-1b17-6be1-acf1df513432-b39babc3" class="features-cell">
+        <div class="features-icon"><img src="{{ asset('images/Sounds.svg') }}" loading="lazy" alt="" class="image"></div>
+        <div class="features-title">5% Marketing Fee</div>
+        <p class="paragraph-normal small-normal">5% of all funds accumulated from sell-off transactions get brought to the marketing team. So Pepe Dubai&#x27;s mission impacts more people like you. All in all, leading to a stronger community and more financial gains for your pockets.</p>
+      </div>
+      <div data-wf-pbl="layout-grid-2x2-centered" id="w-node-b2201105-0261-35de-7041-b9d5425a075b-b39babc3" class="features-cell">
+        <div class="features-icon"><img src="{{ asset('images/C-ic.svg') }}" loading="lazy" alt="" class="image"></div>
+        <div class="features-title">Buyback Program</div>
+        <p class="paragraph-normal small-normal">Join us in our strategic buyback program, strengthening the Pepe Dubai ecosystem. Through token repurchases, we boost value, build trust, and ensure long-term growth. Together, let&#x27;s create a thriving and resilient community, and take Pepe Dubai to the MOON and beyond.</p>
+      </div>
+      <div data-wf-pbl="layout-grid-2x2-centered" id="w-node-_20d42660-02fb-0581-c07d-e61ebd44cb88-b39babc3" class="features-cell">
+        <div class="features-icon"><img src="{{ asset('images/123.svg') }}" loading="lazy" alt="" class="image"></div>
+        <div class="features-title">Original Red Floki Team</div>
+        <p class="paragraph-normal small-normal">The Pepe Dubai 2.0 team has the expertise of huge previous successes in their arsenal. We gave you massive gains when Green Floki jumped to 500x its price. We gave you even more gains when Red Floki did 5500x its price. With our community and you, we aim even higher with Pepe Dubai.</p>
+      </div>
+    </div>
+  </div>
 </section>
-<!-- Service-section -->
-<!-- Choose-section -->
-<section class="choose-section pt-100 pb-70 bg-off-white">
-    <div class="container">
-        <div class="section-title">
-            <small>Why Choose Us</small>
-            <h2>Why People Choose Erudex For ML Services</h2>
-        </div>
-        <div class="process-content">
-            <div class="row justify-content-center">
-                <div class="col-md-6 col-lg-4 pb-30">
-                    <div class="process-item process-item-center border">
-                        <div class="process-thumb">
-                            <img src="{{ asset('images/process/process-four.png') }}" alt="shape">
-                        </div>
-                        <div class="process-text">
-                            <h3>Easy Model Building</h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 pb-30">
-                    <div class="process-item process-item-center border">
-                        <div class="process-thumb">
-                            <img src="{{ asset('images/process/process-five.png') }}" alt="shape">
-                        </div>
-                        <div class="process-text">
-                            <h3>Robust ML Production Anywhere</h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 pb-30">
-                    <div class="process-item process-item-center border">
-                        <div class="process-thumb">
-                            <img src="{{ asset('images/process/process-six.png') }}" alt="shape">
-                        </div>
-                        <div class="process-text">
-                            <h3>Powerful Experimentation</h3>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+<div class="section">
+  <div class="container-medium">
+    <div class="header-sections left">
+      <h2>Why Pepe Dubai 2.0?</h2>
     </div>
+    <div class="w-layout-grid grid-gobal why">
+      <div id="w-node-_938b4ccb-0b41-c3d5-24c2-fe47831430ac-b39babc3" class="gobal-grid-div">
+        <div class="why-items"><img src="{{ asset('images/Lock-Ic.svg') }}" loading="lazy" alt="">
+          <div class="why-content">
+            <h3>Liquidity Locked</h3>
+            <p class="paragraph-normal small-normal-left">The Pepe Dubai 2.0 will lock liquidity to give you the ease of mind that no rug pulls are at play.</p>
+          </div>
+        </div>
+        <div class="why-items"><img src="{{ asset('images/C-ic.svg') }}" loading="lazy" alt="">
+          <div class="why-content">
+            <h3>Charity</h3>
+            <p class="paragraph-normal small-normal-left">Charitable organizations will share some of the profits the Pepe Dubai community experiences. No one goes empty-handed with Pepe Dubai.</p>
+          </div>
+        </div>
+        <div class="why-items"><img src="{{ asset('images/Last-icon.svg') }}" loading="lazy" alt="">
+          <div class="why-content">
+            <h3>Earn Passive Income</h3>
+            <p class="paragraph-normal small-normal-left">HOLDing Pepe Dubai 2.0 can earn you passive income through HOLDR rewards. Sit back and watch your balance grow automatically.</p>
+          </div>
+        </div>
+        <div class="why-items"><img src="{{ asset('images/Grop-Icon.svg') }}" loading="lazy" alt="">
+          <div class="why-content">
+            <h3>Community Driven</h3>
+            <p class="paragraph-normal small-normal-left">Rewarding its community is Pepe Dubai 2.0&#x27;s design. Similarly, by HOLDing, the community allows Pepe Dubai to flourish through its tokenomics. It&#x27;s a perfect pair.</p>
+          </div>
+        </div>
+      </div>
+      <div class="gobal-grid-ldiv"><img src="{{ asset('images/Head-Pepe.png') }}" loading="lazy" width="723.5" alt="" class="gobal-grid-img big-head"></div>
+    </div>
+  </div>
+</div>
+<section id="Our-Roadmap" class="section background-shoft">
+  <div class="container-medium">
+    <div class="header-sections">
+      <h2>Our Roadmap</h2>
+    </div>
+    <div class="w-layout-grid roadmap-grid">
+      <div data-wf-pbl="layout-grid-2x2-centered" id="w-node-_24ab223e-c1c1-b11a-2056-1123316ed9d3-b39babc3" class="road-cell"><img src="{{ asset('images/Phase-1.png') }}" loading="lazy" alt="" class="roadicon">
+        <ul role="list" class="road-item">
+          <li class="roadmap-items">New Website and Branding</li>
+          <li class="roadmap-items">Social Media Channels</li>
+          <li class="roadmap-items">Stealth Launch</li>
+          <li class="roadmap-items">Social Media Marketing</li>
+          <li class="roadmap-items">Audit Applications and Reviews</li>
+          <li class="roadmap-items">Listing on CoinGecko and CoinMarketCap</li>
+        </ul>
+      </div>
+      <div data-wf-pbl="layout-grid-2x2-centered" id="w-node-fd256cab-1536-3a7a-1c6e-390e325664ab-b39babc3" class="road-cell"><img src="{{ asset('images/Phase-2.png') }}" loading="lazy" alt="" class="roadicon">
+        <ul role="list" class="road-item">
+          <li class="roadmap-items">Charity Donations</li>
+          <li class="roadmap-items">Community / Team Building</li>
+          <li class="roadmap-items">AMA&#x27;s</li>
+          <li class="roadmap-items">Giveaways</li>
+          <li class="roadmap-items">30k Twitter Followers</li>
+          <li class="roadmap-items">30k Instagram Followers</li>
+          <li class="roadmap-items">30k Telegram Group Members</li>
+        </ul>
+      </div>
+      <div data-wf-pbl="layout-grid-2x2-centered" id="w-node-_151009ec-db88-edd4-1793-b822078c508d-b39babc3" class="road-cell"><img src="{{ asset('images/Phase-3.pn') }}g" loading="lazy" alt="" class="roadicon">
+        <ul role="list" class="road-item">
+          <li class="roadmap-items">Pepe Dubai 2.0 Swap</li>
+          <li class="roadmap-items">Listing on Major Exchanges</li>
+          <li class="roadmap-items">Influencer Marketing Push</li>
+          <li class="roadmap-items">Launch of Merchandise</li>
+          <li class="roadmap-items">Further Partnerships</li>
+          <li class="roadmap-items">NFT and Games</li>
+          <li class="roadmap-items">Further Ecosystem Development</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </section>
-<!-- Choose-section -->
-
-<!-- Project-section -->
-<section class="project-section pt-min-100 pb-100 bg-off-white" id="projects">
-    <div class="container">
-        <div class="section-title section-title-lg">
-            <h2>Erudex's Projects In Different Domain Of Industry</h2>
-            <p>Our purpose is to deliver excellence in service and execution Our purpose is to deliver excellence in service and Our purpose is to deliver excellence in service.</p>
-        </div>
+<section id="FAQ" class="section faqq">
+  <div class="container-medium">
+    <div class="header-sections">
+      <h2>FAQ</h2>
     </div>
-    <div class="container-fluid p-md-0">
-        <div class="project-carousel owl-carousel owl-theme default-carousel">
-            <div class="item">
-                <div class="project-flat-card">
-                    <div class="project-flat-thumb">
-                        <a href="#">
-                            <img src="{{ asset('images/cases/case-lg-1.jpg') }}" alt="project">
-                        </a>
-                    </div>
-                    <div class="project-flat-text">
-                        <h3><a href="#">Drone And Robot Training</a></h3>
-                    </div>
-                </div>
+    <div class="accordion-item-wrapper---brix-2 preview-page">
+      <div data-w-id="a8bd0d28-815f-d3e3-235b-e260633463ba" style="border-color:rgba(0,0,0,0)" class="accordion-item---brix-2 accordion-1---brix">
+        <div class="accordion-trigger---brix">
+          <div class="accordion-item-title---brix-2">What is Pepe Dubai 2.0 Token?</div>
+          <div style="background-color:rgb(60,132,48)" class="accordion-arrow-wrap---brix-2">
+            <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0)" class="accordion-arrow-wrapper---brix-2">
+              <div class="arrow-line---brix-2 _2---brix"></div>
+              <div class="arrow-line---brix-2 _1---brix"></div>
             </div>
-            <div class="item">
-                <div class="project-flat-card">
-                    <div class="project-flat-thumb">
-                        <a href="#">
-                            <img src="{{ asset('images/cases/case-lg-3.jpg') }}" alt="project">
-                        </a>
-                    </div>
-                    <div class="project-flat-text">
-                        <h3><a href="#">Data Mining Revolution</a></h3>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="project-flat-card">
-                    <div class="project-flat-thumb">
-                        <a href="#">
-                            <img src="{{ asset('images/cases/case-lg-2.jpg') }}" alt="project">
-                        </a>
-                    </div>
-                    <div class="project-flat-text">
-                        <h3><a href="#">Automatic Project Management</a></h3>
-                    </div>
-                </div>
-            </div>
+          </div>
         </div>
+        <div style="height:0px;-webkit-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="accordion-content---brix">
+          <p class="accordion-paragraph---brix-2">Living on the Binance Smart Chain, Pepe Dubai 2.0 is custom-tuned for your gains. The features include HOLDR Rewards, Buybacks, a Marketing Wallet to promote the project for growth, and contract renouncement so the community can run the project collectively.</p>
+        </div>
+      </div>
+      <div data-w-id="a8bd0d28-815f-d3e3-235b-e260633463c5" style="border-color:rgba(0,0,0,0)" class="accordion-item---brix-2 accordion-1---brix">
+        <div class="accordion-trigger---brix">
+          <div class="accordion-item-title---brix-2">What Fees Does Pepe Dubai 2.0 Charge?</div>
+          <div style="background-color:rgb(60,132,48)" class="accordion-arrow-wrap---brix-2">
+            <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0)" class="accordion-arrow-wrapper---brix-2">
+              <div class="arrow-line---brix-2 _2---brix"></div>
+              <div class="arrow-line---brix-2 _1---brix"></div>
+            </div>
+          </div>
+        </div>
+        <div style="height:0px;-webkit-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="accordion-content---brix">
+          <p class="accordion-paragraph---brix-2">Pepe Dubai 2.0 only charges fees to those selling their tokens to leave the community. For such transactions, the fee charged is 10%. Within the 10%, half goes back to HOLDRs as rewards, and the other half goes to fund marketing efforts.</p>
+        </div>
+      </div>
+      <div data-w-id="a8bd0d28-815f-d3e3-235b-e260633463d0" style="border-color:rgba(0,0,0,0)" class="accordion-item---brix-2 accordion-1---brix">
+        <div class="accordion-trigger---brix">
+          <div class="accordion-item-title---brix-2">What are HOLDR Rewards?</div>
+          <div style="background-color:rgb(60,132,48)" class="accordion-arrow-wrap---brix-2">
+            <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0)" class="accordion-arrow-wrapper---brix-2">
+              <div class="arrow-line---brix-2 _2---brix"></div>
+              <div class="arrow-line---brix-2 _1---brix"></div>
+            </div>
+          </div>
+        </div>
+        <div style="height:0px;-webkit-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="accordion-content---brix">
+          <p class="accordion-paragraph---brix-2">HOLDR rewards are the Pepe Dubai 2.0 community&#x27;s gift to you. The more Pepe Dubai tokens you have, the larger the reward you get. Rewards accumulate from half of the 10% sell-off transaction fee. You can watch your balance grow autonomously due to HOLDR rewards.</p>
+        </div>
+      </div>
+      <div data-w-id="a8bd0d28-815f-d3e3-235b-e260633463db" style="border-color:rgba(0,0,0,0)" class="accordion-item---brix-2 accordion-1---brix">
+        <div class="accordion-trigger---brix">
+          <div class="accordion-item-title---brix-2">What is the Marketing fee?</div>
+          <div style="background-color:rgb(60,132,48)" class="accordion-arrow-wrap---brix-2">
+            <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0)" class="accordion-arrow-wrapper---brix-2">
+              <div class="arrow-line---brix-2 _2---brix"></div>
+              <div class="arrow-line---brix-2 _1---brix"></div>
+            </div>
+          </div>
+        </div>
+        <div style="height:0px;-webkit-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="accordion-content---brix">
+          <p class="accordion-paragraph---brix-2">Pepe Dubai 2.0 takes half of the 10% sell-off transaction fee for marketing purposes. The marketing fee helps promote the project to help strengthen the community and grow its size. A strong community brings more gains for you.</p>
+        </div>
+      </div>
+      <div data-w-id="a8bd0d28-815f-d3e3-235b-e260633463e6" style="border-color:rgba(0,0,0,0)" class="accordion-item---brix-2 accordion-1---brix">
+        <div class="accordion-trigger---brix">
+          <div class="accordion-item-title---brix-2">What is the Max Sell Transaction Limit?</div>
+          <div style="background-color:rgb(60,132,48)" class="accordion-arrow-wrap---brix-2">
+            <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0)" class="accordion-arrow-wrapper---brix-2">
+              <div class="arrow-line---brix-2 _2---brix"></div>
+              <div class="arrow-line---brix-2 _1---brix"></div>
+            </div>
+          </div>
+        </div>
+        <div style="height:0px;-webkit-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="accordion-content---brix">
+          <p class="accordion-paragraph---brix-2">Many tokens have a max sell-off transaction limit. Such a transaction limit makes it cumbersome to sell your balance once you make your gains. For this reason, there is no transaction limit on sell-off orders. With Pepe Dubai, you can cash out anytime with ease.</p>
+        </div>
+      </div>
+      <div data-w-id="a8bd0d28-815f-d3e3-235b-e260633463f1" style="border-color:rgba(0,0,0,0)" class="accordion-item---brix-2 accordion-1---brix">
+        <div class="accordion-trigger---brix">
+          <div class="accordion-item-title---brix-2">How Many Tokens Does The Pepe Dubai 2.0 Team Get?</div>
+          <div style="background-color:rgb(60,132,48)" class="accordion-arrow-wrap---brix-2">
+            <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0)" class="accordion-arrow-wrapper---brix-2">
+              <div class="arrow-line---brix-2 _2---brix"></div>
+              <div class="arrow-line---brix-2 _1---brix"></div>
+            </div>
+          </div>
+        </div>
+        <div style="height:0px;-webkit-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="accordion-content---brix">
+          <p class="accordion-paragraph---brix-2">Zero. The Pepe Dubai 2.0 team will not be making profits on the tokens. All token profits are for the community only, including you. With Pepe Dubai, the team will never hoard the profits the community and you deserve.</p>
+        </div>
+      </div>
     </div>
+  </div>
 </section>
-<!-- Project-section -->
-
-<!-- News-section -->
-<section class="news-section pt-min-100 pb-70" id="news">
-    <div class="container">
-        <div class="section-title section-title-lg">
-            <h2>Upcoming News on Erudex AI</h2>
-            <p>Our purpose is to deliver excellence in service and execution Our purpose is to deliver excellence in service and Our purpose is to deliver excellence.</p>
-        </div>
-        <div class="row">
-            <div class="col-md-6 col-lg-4 pb-30">
-                <div class="blog-card">
-                    <div class="blog-card-image">
-                        <a href="#">
-                            <img src="{{ asset('images/blogs/blog-1.jpg') }}" alt="blog">
-                        </a>
-                    </div>
-                    <div class="blog-card-text">
-                        <div class="blog-category">Technology</div>
-                        <h3><a href="#">Is Machine Learning Right Going On Good Way</a></h3>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 pb-30">
-                <div class="blog-card">
-                    <div class="blog-card-image">
-                        <a href="#">
-                            <img src="{{ asset('images/blogs/blog-2.jpg') }}" alt="blog">
-                        </a>
-                    </div>
-                    <div class="blog-card-text">
-                        <div class="blog-category">Robot</div>
-                        <h3><a href="#">The Current State Of Artificial Intelligence Infographic</a></h3>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 offset-md-3 offset-lg-0 pb-30">
-                <div class="blog-card">
-                    <div class="blog-card-image">
-                        <a href="single-blog.html">
-                            <img src="{{ asset('images/blogs/blog-3.jpg') }}" alt="blog">
-                        </a>
-                    </div>
-                    <div class="blog-card-text">
-                        <div class="blog-category">Machine</div>
-                        <h3><a href="#">Our Company As A Global Leader In Big Data</a></h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- News-section -->
-<!-- Newsletter-section -->
-<section class="newsletter-section pt-min-100 pb-100 page-bg page-bg-2 page-bg-overlay">
-    <div class="container position-relative">
-        <div class="section-title section-title-white">
-            <h2>Subscribe For Erudex's Newsletter</h2>
-            <p>Subscribe to our newsletter & stay updated</p>
-        </div>
-        <form class="newsletter-form">
-            <div class="form-group m-0 newsletter-form">
-                <input type="text" name="EMAIL" id="emails" class="form-control" placeholder="Enter Address*" required>
-                <button class="btn main-btn" type="submit">Subscribe</button>
-            </div>
-            <div id="validator-newsletter" class="form-result"></div>
-        </form>
-    </div>
-</section>
-<!-- Newsletter-section -->
 @stop

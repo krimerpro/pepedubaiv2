@@ -1,97 +1,54 @@
-<!-- Preloader -->
-<div class="preloader">
-    <div class="preloader-wrapper">
-        <div class="preloader-content">
-            <div class="blob-1"></div>
-          <div class="blob-2"></div>
+<section class="header-wrapper">
+  <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navigation w-nav">
+    <div class="navigation-container">
+      <a href="index-2.html" aria-current="page" class="logo-link w-inline-block w--current"><img src="{{ asset('images/Lgo-Main.png') }}" loading="lazy" alt="Pepe Dubai Logo" class="logo"></a>
+      <nav role="navigation" class="navigation-menu w-nav-menu">
+        <a href="#About-Us" class="navigation-link w-nav-link">About Us</a>
+        <a href="#Token-Info" class="navigation-link w-nav-link">Token Info</a>
+        <a href="#Features" class="navigation-link w-nav-link">Features</a>
+        <a href="#Our-Roadmap" class="navigation-link w-nav-link">Roadmap</a>
+        <a href="#FAQ" class="navigation-link w-nav-link">FAQ</a>
+        <a href="https://pancakeswap.finance/swap?outputCurrency=0x" target="_blank" class="button-primary-nav show w-button">Buy Pepe Dubai 2.0</a>
+      </nav>
+      <div class="navigation-wrapper">
+        <div class="menu-button w-nav-button">
+          <div class="navmenubar"></div>
+          <div class="navmenubar"></div>
+          <div class="navmenubar"></div>
         </div>
+        <a href="https://pancakeswap.finance/swap?outputCurrency=0x" target="_blank" class="button-primary-nav w-button">Buy Pepe Dubai 2.0</a>
+      </div>
     </div>
-</div>
-<!-- Preloader -->
-<!-- Navbar -->
-<div class="fixed-top bg-white">
-    <div class="navbar-area sticky-black">
-        <div class="container">
-            <div class="mobile-nav">
-                <a href="#" class="mobile-brand">
-                    <img src="{{ asset('images/logo.png') }}" alt="logo" class="logo">
-                </a>
-                <div class="navbar-option">
-                    <div class="navbar-option-item">
-                        <button type="button">
-                            <i class="flaticon-user" ></i>
-                        </button>
-                    </div>
-                    <div class="navbar-option-item side-topbar-option">
-                        <button type="button">
-                            <i class="flaticon-grid" ></i>
-                        </button>
-                    </div>
-                    <div class="navbar-option-item">
-                        <button type="button" class="search-option">
-                            <i class="icofont-search-1"></i>
-                        </button>
-                    </div>
-                </div>
-            </div>
+  </div>
+  <section id="home" class="section-header padding-top">
+    <div class="gobal-container">
+      <div class="w-layout-grid header-grid">
+        <div id="w-node-d2a82d26-fa98-d3d9-4fee-b982f88ebb3f-b39babc3" class="header-block">
+          <h1 data-w-id="d2a82d26-fa98-d3d9-4fee-b982f88ebb40" style="opacity:1" class="hero-heading">The World&#x27;s Best Reserve Currency <span class="span-primary">Pepe Dubai 2.0</span></h1>
+          <p data-w-id="d2a82d26-fa98-d3d9-4fee-b982f88ebb45" style="opacity:1" class="paragraph-regular">Pepe Dubai is the Ultimate Ticket to the MOON, Created by a Team with a Proven Track Record of Delivering Massive Gains to HOLDRs. Join us now <br>and Experience the Expertise Firsthand!</p>
+          <div data-w-id="d2a82d26-fa98-d3d9-4fee-b982f88ebb47" style="opacity:1" class="button-wrapper">
+            <a href="#" target="_blank" class="button-primary w-button">Audit</a>
+            <a href="https://bscscan.com/token/0x" target="_blank" class="button-secondary w-inline-block">
+              <div>CONTRACT</div>
+            </a>
+          </div>
+          <div data-w-id="d2a82d26-fa98-d3d9-4fee-b982f88ebb5a" style="opacity:0" class="w-layout-grid header-logo-grid">
+            <a href="https://t.me/ThePepeDubaiV2" target="_blank" class="header-logo-card w-inline-block">
+              <div class="logo-img-wrap"><img src="{{ asset('images/Telegram.svg') }}" loading="lazy" alt=""></div>
+              <div id="w-node-a6fab492-68bf-7d6e-02fc-9b5be12b8d01-b39babc3" class="socail-icons-texts">Telegram</div>
+            </a>
+            <a href="https://twitter.com/ThePepeDubaiV2" target="_blank" class="header-logo-card w-inline-block">
+              <div class="logo-img-wrap"><img src="{{ asset('images/Twitter.svg') }}" loading="lazy" alt="Twitter"></div>
+              <div id="w-node-a04c31a1-2d51-7662-c3fa-5da1fc56d012-b39babc3" class="socail-icons-texts">Twitter</div>
+            </a>
+            <a href="#" target="_blank" class="header-logo-card hidden w-inline-block">
+              <div class="logo-img-wrap"><img src="{{ asset('images/In.svg') }}" loading="lazy" alt="Instagram"></div>
+              <div id="w-node-_34985356-afe8-c243-3aad-9d56a90269cd-b39babc3" class="socail-icons-texts">Instagram</div>
+            </a>
+          </div>
         </div>
-        <div class="main-nav">
-            <div class="container">
-                <nav class="navbar navbar-expand-md navbar-light">
-                    <a class="navbar-brand" href="#">
-                        <img src="{{ asset('images/logo.png') }}" alt="logo" class="logo">
-                    </a>
-                    <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
-                        <ul class="navbar-nav mx-auto">
-                            <li class="nav-item">
-                                <a href="#" class="nav-link">HOME</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a href="#about" class="nav-link">ABOUT US</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a href="#services" class="nav-link">SERVICES</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a href="#projects" class="nav-link">PROJECTS</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a href="#news" class="nav-link">NEWS</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="navbar-option">
-                        <div class="navbar-option-item">
-                            <a href="#" class="btn main-btn">More Features</a>
-                        </div>
-                    </div>
-                </nav>
-            </div>
-        </div>
+        <div id="w-node-d2a82d26-fa98-d3d9-4fee-b982f88ebb4e-b39babc3" class="header-image"><img src="{{ asset('images/Pepe-Habibi-Character-Designs-07-1.svg') }}" data-w-id="d2a82d26-fa98-d3d9-4fee-b982f88ebb4f" style="opacity:1" alt="Pepe Dubai" class="header-image-graphic"></div>
+      </div>
     </div>
-</div>
-<!-- Navbar -->
-<!-- Header -->
-<header class="header header-bg header-bottom-space header-bg-image">
-    <div class="container-fluid p-lg-0 custom-container-fluid">
-        <div class="row m-lg-0 align-items-center">
-            <div class="col-lg-6 p-lg-0">
-                <div class="max-585 ms-lg-auto">
-                    <div class="header-content header-content-white m-0">
-                        <h1>Best Machine Learning Product Creator</h1>
-                        <p>Transforming businesses with Artificial Intelligence</p>
-                        <div class="button-group button-group-animated">
-                            <a href="https://poocoin.app/tokens/0x" class="btn main-btn">Poocoin Chart</a>
-                            <a href="https://t.me/ErudexAiPortal" class="btn main-btn main-btn-white">Telegram Group</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
-<!-- Header -->
+  </section>
+</section>

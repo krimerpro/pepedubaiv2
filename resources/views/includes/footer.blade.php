@@ -1,90 +1,38 @@
-<!-- Footer -->
-<footer class="bg-off-white footer">
-    <div class="footer-lower bg-blue position-relative">
-        <div class="container">
-            <div class="footer-copyright-text footer-copyright-text-white">
-                <p>Copyright ©2023 Erudex. Designed & Developed By <span style="color:blue;font-weight:bold">Erudex Team</span></a></p>
-            </div>
+<footer class="section-footer">
+  <div class="container-large">
+    <div class="footer-wrapper"><img src="{{ asset('images/Lgo-Main.png') }}" loading="lazy" alt="" class="footer-logo">
+      <p class="paragraph-footer">Pepe Dubai 2.0 is the Ultimate Ticket to the MOON, Created by a Team with a Proven Track Record of Delivering Massive Gains to HOLDRs. Join us now and Experience the Expertise Firsthand!</p>
+      <p class="resource-title">Resources</p>
+      <div class="footer-link-wrapper">
+        <a href="https://www.dextools.io/app/en/bnb/pair-explorer/0X" target="_blank" class="footer-link w-inline-block">
+          <div>Chart</div>
+        </a>
+        <a href="https://bscscan.com/token/0x" target="_blank" class="footer-link w-inline-block">
+          <div>Contract</div>
+        </a>
+        <a href="#" target="_blank" class="footer-link w-inline-block">
+          <div>Security Audit</div>
+        </a>
+      </div>
+      <div class="footer-social-wrapper">
+        <div class="w-layout-grid header-logo-grid footer">
+          <a href="https://t.me/ThePepeDubaiV2" target="_blank" class="header-logo-card w-inline-block">
+            <div class="logo-img-wrap"><img src="{{ asset('images/Telegram.svg') }}" loading="lazy" alt=""></div>
+            <div id="w-node-_4e667940-6463-16a6-dd63-8ee90a8837a7-b39babc3" class="socail-icons-texts">Telegram</div>
+          </a>
+          <a href="https://twitter.com/ThePepeDubaiV2" target="_blank" class="header-logo-card w-inline-block">
+            <div class="logo-img-wrap"><img src="{{ asset('images/Twitter.svg') }}" loading="lazy" alt=""></div>
+            <div id="w-node-_4e667940-6463-16a6-dd63-8ee90a8837ac-b39babc3" class="socail-icons-texts">Twitter</div>
+          </a>
         </div>
+      </div>
     </div>
+  </div>
+  <div class="all-rights-reserved">
+    <div>Copyright © 2023 Pepe Dubai 2.0. All Rights Reserved.</div>
+  </div>
 </footer>
-<!-- Footer -->
+<script src="{{ asset('js/jquery-3.5.1.min.dc5e7f18c86454.js') }}" type="text/javascript"></script>
+<script src="{{ asset('js/webflow.js') }}" type="text/javascript"></script>
 
-<!-- Scroll-top -->
-<div class="scroll-top" id="scrolltop">
-    <div class="scroll-top-inner">
-        <i class="icofont-long-arrow-up"></i>
-    </div>
-</div>
-<!-- Scroll-top -->
-
-<!-- Topbar-side-modal -->
-<div class="side-modal-wrapper">
-    <div class="side-modal">
-        <div class="side-modal-header">
-            <div class="side-modal-logo">
-                <a href="#"><img src="{{ asset('images/logo.png') }}" alt="logo"></a>
-            </div>
-            <div class="side-modal-close">
-                <i class="icofont-close"></i>
-            </div>
-        </div>
-        <div class="side-modal-body">
-            <div class="sidebar-info-content">
-                <h3>Follow Us</h3>
-                <ul class="social-list">
-                    <li>
-                        <a href="https://twitter.com/ErudexAI" target="_blank"><i class="icofont-twitter"></i></a>
-                    </li>
-                    <li>
-                        <a href="https://t.me/ErudexAiPortal" target="_blank"><i class="icofont-paper-plane"></i></a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Topbar-side-modal -->
-
-<!-- Search-overlay -->
-<div class="search-overlay">
-    <div class="search-close">
-        <i class="icofont-close"></i>
-    </div>
-    <div class="search-form-area">
-        <div class="search-area-logo">
-            <a href="#">
-                <img src="{{ asset('images/logo-white.png') }}" alt="logo">
-            </a>
-        </div>
-        <form>
-            <div class="form-group search-form-group">
-                <input type="text" placeholder="Search..." class="form-control" autofocus="autofocus">
-                <button>
-                    <i class="icofont-search-1"></i>
-                </button>
-            </div>
-        </form>
-    </div>
-</div>
-<!-- Search-overlay -->
-
-<!-- essential js -->
-<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="{{ asset('/js/jquery.min.js') }}"></script>
-<script src="{{ asset('/js/bootstrap.bundle.min.js') }}"></script>
-<!-- magnific popup js -->
-<script src="{{ asset('/js/jquery.magnific-popup.min.js') }}"></script>
-<!-- owl carousel js -->
-<script src="{{ asset('/js/owl.carousel.min.js') }}"></script>
-<!-- nice select js -->
-<script src="{{ asset('/js/jquery.nice-select.min.js') }}"></script>
-<!-- form ajazchimp js -->
-<script src="{{ asset('/js/jquery.ajaxchimp.min.js') }}"></script>
-<!-- form validator js  -->
-<script src="{{ asset('/js/form-validator.min.js') }}"></script>
-<!-- contact form js -->
-<script src="{{ asset('/js/contact-form-script.js') }}"></script>
-<!-- meanmenu js -->
-<script src="{{ asset('/js/jquery.meanmenu.min.js') }}"></script>
-<!-- main js -->
-<script src="{{ asset('/js/script.js') }}"></script>
+<script src=""></script>
