@@ -4,10 +4,10 @@
       <p class="paragraph-footer">Pepe Dubai 2.0 is the Ultimate Ticket to the MOON, Created by a Team with a Proven Track Record of Delivering Massive Gains to HOLDRs. Join us now and Experience the Expertise Firsthand!</p>
       <p class="resource-title">Resources</p>
       <div class="footer-link-wrapper">
-        <a href="https://www.dextools.io/app/en/bnb/pair-explorer/0x5675aa1f5599e4b93f75e020232f0ba553ea4082" target="_blank" class="footer-link w-inline-block">
+        <a href="https://www.dextools.io/app/en/bnb/pair-explorer/0x" target="_blank" class="footer-link w-inline-block">
           <div>Chart</div>
         </a>
-        <a href="https://bscscan.com/token/0x90a132243294D8cD51930e292B2663ce64122CC4" target="_blank" class="footer-link w-inline-block">
+        <a href="https://bscscan.com/token/0x" target="_blank" class="footer-link w-inline-block">
           <div>Contract</div>
         </a>
         <a href="#" target="_blank" class="footer-link w-inline-block">
