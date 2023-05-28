@@ -25,7 +25,7 @@
       <div class="w-layout-grid header-grid">
         <div id="w-node-d2a82d26-fa98-d3d9-4fee-b982f88ebb3f-b39babc3" class="header-block">
           <h1 data-w-id="d2a82d26-fa98-d3d9-4fee-b982f88ebb40" style="opacity:1" class="hero-heading">The World&#x27;s Best Reserve Currency <span class="span-primary">Pepe Dubai 2.0</span></h1>
-          <p data-w-id="d2a82d26-fa98-d3d9-4fee-b982f88ebb45" style="opacity:1" class="paragraph-regular">Pepe Dubai is the Ultimate Ticket to the MOON, Created by a Team with a Proven Track Record of Delivering Massive Gains to HOLDRs. Join us now <br>and Experience the Expertise Firsthand!</p>
+          <p data-w-id="d2a82d26-fa98-d3d9-4fee-b982f88ebb45" style="opacity:1" class="paragraph-regular">Pepe Dubain 2.0 is the Ultimate Ticket to the MOON, Created by a Team with a Proven Track Record of Delivering Massive Gains to HOLDRs. Join us now <br>and Experience the Expertise Firsthand!</p>
           <div data-w-id="d2a82d26-fa98-d3d9-4fee-b982f88ebb47" style="opacity:1" class="button-wrapper">
             <a href="#" target="_blank" class="button-primary w-button">Audit</a>
             <a href="https://bscscan.com/token/0x90a132243294D8cD51930e292B2663ce64122CC4" target="_blank" class="button-secondary w-inline-block">
