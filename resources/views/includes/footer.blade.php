@@ -7,7 +7,7 @@
         <a href="https://www.dextools.io/app/en/bnb/pair-explorer/0x" target="_blank" class="footer-link w-inline-block">
           <div>Chart</div>
         </a>
-        <a href="https://bscscan.com/token/0x" target="_blank" class="footer-link w-inline-block">
+        <a href="https://bscscan.com/token/0xbE17Eb018fef6f07e4785bf6433a800bf5b6b1cd" target="_blank" class="footer-link w-inline-block">
           <div>Contract</div>
         </a>
         <a href="#" target="_blank" class="footer-link w-inline-block">
