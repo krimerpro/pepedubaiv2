@@ -4,10 +4,10 @@
       <p class="paragraph-footer">Pepe Dubai 2.0 is the Ultimate Ticket to the MOON, Created by a Team with a Proven Track Record of Delivering Massive Gains to HOLDRs. Join us now and Experience the Expertise Firsthand!</p>
       <p class="resource-title">Resources</p>
       <div class="footer-link-wrapper">
-        <a href="https://poocoin.app/tokens/0x" target="_blank" class="footer-link w-inline-block">
+        <a href="https://poocoin.app/tokens/0xDCAd007D0F542aeDD8e3CA79f1615Bb72266307f" target="_blank" class="footer-link w-inline-block">
           <div>Chart</div>
         </a>
-        <a href="https://bscscan.com/token/0x" target="_blank" class="footer-link w-inline-block">
+        <a href="https://bscscan.com/token/0xDCAd007D0F542aeDD8e3CA79f1615Bb72266307f" target="_blank" class="footer-link w-inline-block">
           <div>Contract</div>
         </a>
         <a href="#" target="_blank" class="footer-link w-inline-block">
