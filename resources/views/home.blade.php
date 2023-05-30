@@ -20,7 +20,7 @@
       <div id="w-node-_2ce1e4ea-ae00-36b9-4c83-85ea2e588019-b39babc3" class="gobal-grid-div">
         <h2 class="header-title-2 max">Market-Proven Methods For You</h2>
         <div class="line"></div>
-        <p class="paragraph-normal">Get Pepe Dubai with 0% Transaction Fee and Benefit from a Planned Marketing &amp; Buyback Push. Our 10% Sell Transaction Fee Protects Against Quick Sell-Offs, and Our 5% Reflection Fee Logic Increases your Balance Automatically. Rest Easy Knowing We Plan to Publicly Renounce the Smart Contract to Prevent Rug-Pulling. Invest in Pepe Dubai 2.0 Now!</p>
+        <p class="paragraph-normal">Get Pepe Dubai with 0% Transaction Fee and Benefit from a Planned Marketing &amp; Buyback Push. Our 2% Sell Transaction Fee Protects Against Quick Sell-Offs, and Our 5% Reflection Fee Logic Increases your Balance Automatically. Rest Easy Knowing We Plan to Publicly Renounce the Smart Contract to Prevent Rug-Pulling. Invest in Pepe Dubai 2.0 Now!</p>
       </div>
       <div class="gobal-grid-ldiv n"><img src="{{ asset('images/Pepe-Habibi-Character-Designs-06-1.svg') }}" loading="lazy" width="586" alt="" class="gobal-grid-img small"></div>
     </div>
@@ -55,7 +55,7 @@
         <div class="text-block-percent">Buy</div>
       </div>
       <div id="w-node-_64e9a1c9-f7ef-e757-de67-bc5abc586ee0-b39babc3" class="token-info-circle red">
-        <h3 class="head-h3">10%</h3>
+        <h3 class="head-h3">2%</h3>
         <div class="text-block-percent">Sell</div>
       </div>
     </div>
@@ -70,14 +70,14 @@
     <div class="w-layout-grid features-grid">
       <div data-wf-pbl="layout-grid-2x2-centered" id="w-node-_60454006-08c6-5601-f9d9-da37a57cea89-b39babc3" class="features-cell">
         <div class="features-icon"><img src="{{ asset('images/Liquidity.svg') }}" loading="lazy" alt="" class="image"></div>
-        <div class="features-title desktop">5% HOLDR Rewards</div>
-        <div class="features-title mobile">5% Holdr Rewards</div>
-        <p class="paragraph-normal small-normal">5% of all the funds accumulated from sell-off transaction fees gets distributed to all HOLDRs, including you. So relax, do nothing but HOLD and watch your balance increase on its own due to Pepe Dubai rewards.</p>
+        <div class="features-title desktop">1% HOLDR Rewards</div>
+        <div class="features-title mobile">1% Holdr Rewards</div>
+        <p class="paragraph-normal small-normal">1% of all the funds accumulated from sell-off transaction fees gets distributed to all HOLDRs, including you. So relax, do nothing but HOLD and watch your balance increase on its own due to Pepe Dubai rewards.</p>
       </div>
       <div data-wf-pbl="layout-grid-2x2-centered" id="w-node-df7ae8d5-1d1e-1b17-6be1-acf1df513432-b39babc3" class="features-cell">
         <div class="features-icon"><img src="{{ asset('images/Sounds.svg') }}" loading="lazy" alt="" class="image"></div>
-        <div class="features-title">5% Marketing Fee</div>
-        <p class="paragraph-normal small-normal">5% of all funds accumulated from sell-off transactions get brought to the marketing team. So Pepe Dubai&#x27;s mission impacts more people like you. All in all, leading to a stronger community and more financial gains for your pockets.</p>
+        <div class="features-title">1% Marketing Fee</div>
+        <p class="paragraph-normal small-normal">1% of all funds accumulated from sell-off transactions get brought to the marketing team. So Pepe Dubai&#x27;s mission impacts more people like you. All in all, leading to a stronger community and more financial gains for your pockets.</p>
       </div>
       <div data-wf-pbl="layout-grid-2x2-centered" id="w-node-b2201105-0261-35de-7041-b9d5425a075b-b39babc3" class="features-cell">
         <div class="features-icon"><img src="{{ asset('images/C-ic.svg') }}" loading="lazy" alt="" class="image"></div>
@@ -200,7 +200,7 @@
           </div>
         </div>
         <div style="height:0px;-webkit-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="accordion-content---brix">
-          <p class="accordion-paragraph---brix-2">Pepe Dubai 2.0 only charges fees to those selling their tokens to leave the community. For such transactions, the fee charged is 10%. Within the 10%, half goes back to HOLDRs as rewards, and the other half goes to fund marketing efforts.</p>
+          <p class="accordion-paragraph---brix-2">Pepe Dubai 2.0 only charges fees to those selling their tokens to leave the community. For such transactions, the fee charged is 2%. Within the 2%, half goes back to HOLDRs as rewards, and the other half goes to fund marketing efforts.</p>
         </div>
       </div>
       <div data-w-id="a8bd0d28-815f-d3e3-235b-e260633463d0" style="border-color:rgba(0,0,0,0)" class="accordion-item---brix-2 accordion-1---brix">
@@ -214,7 +214,7 @@
           </div>
         </div>
         <div style="height:0px;-webkit-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="accordion-content---brix">
-          <p class="accordion-paragraph---brix-2">HOLDR rewards are the Pepe Dubai 2.0 community&#x27;s gift to you. The more Pepe Dubai tokens you have, the larger the reward you get. Rewards accumulate from half of the 10% sell-off transaction fee. You can watch your balance grow autonomously due to HOLDR rewards.</p>
+          <p class="accordion-paragraph---brix-2">HOLDR rewards are the Pepe Dubai 2.0 community&#x27;s gift to you. The more Pepe Dubai tokens you have, the larger the reward you get. Rewards accumulate from half of the 2% sell-off transaction fee. You can watch your balance grow autonomously due to HOLDR rewards.</p>
         </div>
       </div>
       <div data-w-id="a8bd0d28-815f-d3e3-235b-e260633463db" style="border-color:rgba(0,0,0,0)" class="accordion-item---brix-2 accordion-1---brix">
@@ -228,7 +228,7 @@
           </div>
         </div>
         <div style="height:0px;-webkit-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="accordion-content---brix">
-          <p class="accordion-paragraph---brix-2">Pepe Dubai 2.0 takes half of the 10% sell-off transaction fee for marketing purposes. The marketing fee helps promote the project to help strengthen the community and grow its size. A strong community brings more gains for you.</p>
+          <p class="accordion-paragraph---brix-2">Pepe Dubai 2.0 takes half of the 2% sell-off transaction fee for marketing purposes. The marketing fee helps promote the project to help strengthen the community and grow its size. A strong community brings more gains for you.</p>
         </div>
       </div>
       <div data-w-id="a8bd0d28-815f-d3e3-235b-e260633463e6" style="border-color:rgba(0,0,0,0)" class="accordion-item---brix-2 accordion-1---brix">
