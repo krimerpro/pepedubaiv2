@@ -8,7 +8,7 @@
         <a href="#Features" class="navigation-link w-nav-link">Features</a>
         <a href="#Our-Roadmap" class="navigation-link w-nav-link">Roadmap</a>
         <a href="#FAQ" class="navigation-link w-nav-link">FAQ</a>
-        <a href="https://pancakeswap.finance/swap?outputCurrency=0x19e2097601d8B874c91eC858D3030ea03989f650" target="_blank" class="button-primary-nav show w-button">Buy Pepe Dubai 2.0</a>
+        <a href="https://pancakeswap.finance/swap?outputCurrency=0x" target="_blank" class="button-primary-nav show w-button">Buy Pepe Dubai 2.0</a>
       </nav>
       <div class="navigation-wrapper">
         <div class="menu-button w-nav-button">
@@ -16,7 +16,7 @@
           <div class="navmenubar"></div>
           <div class="navmenubar"></div>
         </div>
-        <a href="https://pancakeswap.finance/swap?outputCurrency=0x19e2097601d8B874c91eC858D3030ea03989f650" target="_blank" class="button-primary-nav w-button">Buy Pepe Dubai 2.0</a>
+        <a href="https://pancakeswap.finance/swap?outputCurrency=0x" target="_blank" class="button-primary-nav w-button">Buy Pepe Dubai 2.0</a>
       </div>
     </div>
   </div>
@@ -28,7 +28,7 @@
           <p data-w-id="d2a82d26-fa98-d3d9-4fee-b982f88ebb45" style="opacity:1" class="paragraph-regular">Pepe Dubain 2.0 is the Ultimate Ticket to the MOON, Created by a Team with a Proven Track Record of Delivering Massive Gains to HOLDRs. Join us now <br>and Experience the Expertise Firsthand!</p>
           <div data-w-id="d2a82d26-fa98-d3d9-4fee-b982f88ebb47" style="opacity:1" class="button-wrapper">
             <a href="#" target="_blank" class="button-primary w-button">Audit</a>
-            <a href="https://bscscan.com/token/0x19e2097601d8B874c91eC858D3030ea03989f650" target="_blank" class="button-secondary w-inline-block">
+            <a href="https://bscscan.com/token/0x" target="_blank" class="button-secondary w-inline-block">
               <div>CONTRACT</div>
             </a>
           </div>
